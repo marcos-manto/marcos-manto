@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, mi nombre es Marcos Mantovani</h1>
-<h3 align="center">soy un Web developer comprometido</h3>
+<h1 align="center">Hi 👋, I am Marcos Mantovani</h1>
+<h3 align="center">I am a committed Web developer</h3>
 
-- 🤝 Projects I worked on [Surgente](https://www.surgente.com.ar/)
+🤝 Projects I worked on
+- [Surgente](https://www.surgente.com.ar/)
+- [Decomat](https://decomat.com.ar/)
 
--  [Decomat](https://decomat.com.ar/)
+💬 Ask me about **html,css,javascript y php**
 
-- 💬 Ask me about **html,css,javascript y php**
-
-- 📫 How to reach me **marcossmantovanii@gmail.com**
+📫 How to reach me **marcossmantovanii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

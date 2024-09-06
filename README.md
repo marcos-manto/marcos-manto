@@ -3,7 +3,7 @@
 
 - 🤝 Projects I worked on [Surgente](https://www.surgente.com.ar/)
 
-- 🤝 Projects I worked on [Decomat](https://decomat.com.ar/)
+-  [Decomat](https://decomat.com.ar/)
 
 - 💬 Ask me about **html,css,javascript y php**
 

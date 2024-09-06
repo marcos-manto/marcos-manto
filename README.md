@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Marcos Mantovani</h1>
+<h1 align="center">Hi 👋, my name is Marcos Mantovani</h1>
 <h3 align="center">I am a committed Web developer</h3>
 
 🤝 Projects I worked on

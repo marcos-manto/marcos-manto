@@ -5,7 +5,7 @@
 - [Surgente](https://www.surgente.com.ar/)
 - [Decomat](https://decomat.com.ar/)
 
-💬 Ask me about **html,css,javascript y php**
+💬 Ask me about **html,css,javascript and php**
 
 📫 How to reach me **marcossmantovanii@gmail.com**
 
